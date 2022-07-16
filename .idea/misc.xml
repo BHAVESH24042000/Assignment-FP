@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/drawable-v24/big_card_asset.xml" value="0.101" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/drawable-v24/ic_chevron_right_black_24dp.xml" value="0.1225" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/drawable-v24/ic_dismiss_now.xml" value="0.101" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/drawable/app_bg_color.xml" value="0.126" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/drawable/ic_alert.xml" value="0.103" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/drawable/ic_cancel.xml" value="0.124" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/drawable/icon_res.xml" value="0.124" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/drawable/round_outline.xml" value="0.1235" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout-v31/hc1_arrow_item_layout.xml" value="0.22" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout-v31/hc9_card_item_layout.xml" value="0.15677083333333333" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/activity_main.xml" value="0.17415446744068652" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/container_layout.xml" value="0.1" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/hc1_arrow_item_layout.xml" value="0.22" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/hc3_card_item_layout.xml" value="0.22" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/hc5_card_item_layout.xml" value="0.22" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/hc6_arrow_item_layout.xml" value="0.22" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/hc9_card_item_layout.xml" value="0.1796875" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/main2.xml" value="0.1796875" />
+        <entry key="..\:/android projects/FamPayAssgnt/app/src/main/res/layout/temp.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
